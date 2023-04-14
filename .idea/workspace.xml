@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5cd432d0-b6dc-492d-b5e0-1a370e990737" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="5cd432d0-b6dc-492d-b5e0-1a370e990737" name="Changes" comment="Cambio nombre al requerido.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ValidadorRutGPT.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/CasoRut.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/CasoRutTest.java" beforeDir="false" />
@@ -14,6 +14,13 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -52,9 +59,16 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ValidadorRut">
+  <component name="RunManager" selected="Application.ValidadorRutGPT">
     <configuration name="ValidadorRut" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ValidadorRut" />
+      <module name="TareaCasoRut" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidadorRutGPT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ValidadorRutGPT" />
       <module name="TareaCasoRut" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -70,26 +84,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CasoRutTest.devolverOperacionCuatroTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="TareaCasoRut" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CasoRutTest" />
-      <option name="METHOD_NAME" value="devolverOperacionCuatroTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CasoRutTest.formatearRutTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="TareaCasoRut" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CasoRutTest" />
-      <option name="METHOD_NAME" value="formatearRutTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="CasoRutTest.ingresarRutTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TareaCasoRut" />
       <option name="PACKAGE_NAME" value="" />
@@ -100,13 +94,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ValidadorRutTest.devolverOperacionCuatroTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TareaCasoRut" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ValidadorRutTest" />
+      <option name="METHOD_NAME" value="devolverOperacionCuatroTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ValidadorRutGPT" />
+        <item itemvalue="JUnit.ValidadorRutTest.devolverOperacionCuatroTest" />
         <item itemvalue="Application.ValidadorRut" />
         <item itemvalue="JUnit.CasoRutTest.ingresarRutTest" />
         <item itemvalue="JUnit.CasoRutTest.convertirDigitosAArregloEnterosTest" />
-        <item itemvalue="JUnit.CasoRutTest.formatearRutTest" />
-        <item itemvalue="JUnit.CasoRutTest.devolverOperacionCuatroTest" />
       </list>
     </recent_temporary>
   </component>
@@ -119,6 +123,14 @@
       <option name="presentableId" value="Default" />
       <updated>1681410910261</updated>
     </task>
+    <task id="LOCAL-00001" summary="Cambio nombre al requerido.">
+      <created>1681442687123</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681442687123</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -131,5 +143,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Cambio nombre al requerido." />
+    <option name="LAST_COMMIT_MESSAGE" value="Cambio nombre al requerido." />
   </component>
 </project>
