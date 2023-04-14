@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5cd432d0-b6dc-492d-b5e0-1a370e990737" name="Changes" comment="Cambio nombre al requerido.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ValidadorRutGPT.java" afterDir="false" />
+    <list default="true" id="5cd432d0-b6dc-492d-b5e0-1a370e990737" name="Changes" comment="Integración ValidadorRutGPT.java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CasoRut.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/CasoRutTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +27,9 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
@@ -130,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681442687123</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Integración ValidadorRutGPT.java">
+      <created>1681443020416</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681443020416</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -146,6 +154,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Cambio nombre al requerido." />
-    <option name="LAST_COMMIT_MESSAGE" value="Cambio nombre al requerido." />
+    <MESSAGE value="Integración ValidadorRutGPT.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Integración ValidadorRutGPT.java" />
   </component>
 </project>
