@@ -17,6 +17,7 @@ public class ValidadorRut {
 
     public static String ingresarRut() throws Exception {
         Scanner sc = new Scanner(System.in);
+        System.out.println("Ingresa el RUT sin puntos ni guión");
         String rut = sc.nextLine();
         if (!rut.matches("[0-9]{7,8}[Kk0-9]{1}")) {
             throw new Exception("El formato del RUT no es válido");

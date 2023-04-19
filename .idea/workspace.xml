@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5cd432d0-b6dc-492d-b5e0-1a370e990737" name="Changes" comment="Integración ValidadorRutGPT.java">
+    <list default="true" id="5cd432d0-b6dc-492d-b5e0-1a370e990737" name="Changes" comment="Modificación README.md">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ValidadorRut.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ValidadorRut.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +19,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="dev" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -60,7 +63,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ValidadorRutGPT">
+  <component name="RunManager" selected="Application.ValidadorRut">
     <configuration name="ValidadorRut" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ValidadorRut" />
       <module name="TareaCasoRut" />
@@ -107,9 +110,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ValidadorRut" />
         <item itemvalue="Application.ValidadorRutGPT" />
         <item itemvalue="JUnit.ValidadorRutTest.devolverOperacionCuatroTest" />
-        <item itemvalue="Application.ValidadorRut" />
         <item itemvalue="JUnit.CasoRutTest.ingresarRutTest" />
         <item itemvalue="JUnit.CasoRutTest.convertirDigitosAArregloEnterosTest" />
       </list>
